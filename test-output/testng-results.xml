@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-03T20:28:40 IST" name="Default suite" finished-at="2024-08-03T20:28:52 IST" duration-ms="11929">
+    <groups>
+    </groups>
+    <test started-at="2024-08-03T20:28:40 IST" name="Default test" finished-at="2024-08-03T20:28:52 IST" duration-ms="11929">
+      <class name="com.sarathproj.login.TC01">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.sarathproj.login.TC01@58d75e99]" started-at="2024-08-03T20:28:40 IST" name="browserLaunch" finished-at="2024-08-03T20:28:41 IST" duration-ms="1441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="tc01()[pri:0, instance:com.sarathproj.login.TC01@58d75e99]" started-at="2024-08-03T20:28:41 IST" name="tc01" description="FitPeo Task&#039;s" finished-at="2024-08-03T20:28:52 IST" duration-ms="10290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sarathproj.login.TC01@58d75e99]" started-at="2024-08-03T20:28:52 IST" name="tearDown" finished-at="2024-08-03T20:28:52 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sarathproj.login.TC01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
